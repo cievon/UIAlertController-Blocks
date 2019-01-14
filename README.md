@@ -18,5 +18,6 @@ Showing Alert Viiew in current toppest ViewController.  Items contain title、me
     }];
 ```
 
+![ffdas](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/actionSheetCustomStyleActions.png)
 
 **ActionSheet**
