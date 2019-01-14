@@ -10,8 +10,8 @@ Greater iOS 8.0.
 **AlertView**
 
 ![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/alertNormal.png)
-![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/alertCustomStyleActions.png)
 ![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/alertDefalutStyleActions.png)
+![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/alertCustomStyleActions.png)
 ![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/alertCustomStyleActions2.png)
 
 **ActionSheet**
