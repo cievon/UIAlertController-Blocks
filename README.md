@@ -61,7 +61,7 @@ Showing action sheet in current toppest viewController. Items contain title、me
     }];
 ```
 
-Showing action sheet in specified viewController. Items contain title、message、add multiple custom style (see CNAlertActionStyle) action、cancel action.
+Showing action sheet in current toppest viewController. Items contain title、message、add multiple custom style (see CNAlertActionStyle) action、cancel action.
 ```objc
 [UIAlertController cn_showActionSheetWithTitle:_title message:_message customActionTitles:_customStyleActionTitles cancelTitle:_cancelTitle complete:^(NSUInteger index) {
         NSLog(@"index:%ld-- %@", index, self->_customStyleActionTitles[index].allValues.firstObject);
