@@ -5,20 +5,6 @@ Convenience methods for UIAlertController. It can add custom style (defalut and 
 ### Requirements
 * Greater iOS 8.0.
 
-### Style
-
-**AlertView**
-
-![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/alertNormal.png)      ![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/alertCustomStyleActions2.png)
-
-![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/alertDefalutStyleActions.png)    ![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/alertCustomStyleActions.png)
-
-**ActionSheet**
-
-![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/actionSheetNormal.png)   ![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/actionSheetCustomStyleActions2.png)
-
-![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/actionSheetDefalutStyleActions.png)   ![](https://github.com/cievon/UIAlertController-CNBlocks/raw/master/markdown_source/actionSheetCustomStyleActions.png)
-
 ### Usage
 * Add UIAlertController+CNBlocks.h/m into your project. 
 
